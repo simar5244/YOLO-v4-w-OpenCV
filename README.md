@@ -1,2 +1,2 @@
 # YOLO-v4-w-OpenCV
-You Only Learn Once (YOLO) Object with OpenCV.
+Since Deep Neural Network (DNN) was moved to the master branch of OpenCV, we will be using the dnn module with pre-trained YOLO-Darknet model.
